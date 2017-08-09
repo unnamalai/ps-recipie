@@ -1,1 +1,2 @@
-# ps-recipie
+# ps-recipit
+git this my repsository 
